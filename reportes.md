@@ -55,7 +55,7 @@ Cuando un enemigo ataca, se puede esquivar el ataque moviendose hacia un lado au
 
         Posible solucion: Ajustar la hitbox del ataque de los enemigos para que impacten en todo el area.
 
-[Video](https://drive.google.com/file/d/1ywe0FEi26fjmG7SQbSb79JQFN3xPjrrk/view?usp=drive_link)
+[Video](https://drive.google.com/file/d/1tiaC47OgiTqp2ff9QQ8wUjGLU-oZvrlq/view?usp=drive_link)
 
 # Menu mal ajustado
 
